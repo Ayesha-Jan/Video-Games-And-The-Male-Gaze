@@ -1,0 +1,638 @@
+﻿Name,Gender,Game,Age,Age_range,Playable,Sexualization,Id,Species,Side,Relevance,Romantic_Interest
+Farah,Female,CODMW,27,Adult,1,0,CODMW_Farah,Human,P,PA,No
+Protagonist,Custom,PSS,Teenager,Teenager,1,0,PSS_Protagonist,Human,P,PA,No
+Magnolia,Female,PSS,Elderly,Elderly,0,0,PSS_Magnolia,Human,P,SC,No
+Sonia,Female,PSS,26,Adult,0,0,PSS_Sonia,Human,P,SC,No
+Marnie,Female,PSS,Teenager,Teenager,0,0,PSS_Marnie,Human,B,MC,No
+Oleana ,Female,PSS,Adult,Adult,0,0,PSS_Oleana,Human,A,SC,No
+Peach,Female,SMO,Adult,Adult,0,2,SMO_Peach,Human,P,MC,Yes
+Zelda,Female,BOTW,17,Teenager,0,0,BOTW_Zelda,Human,P,DA,No
+Protagonist,Custom,PSM,11,Child,1,0,PSM_Protagonist,Human,P,PA,No
+Ciri,Female,TW3,21,Young adult,0,2,TW3_Ciri,Human,P,DA,No
+Clementine,Female,TWD,8,Child,0,0,TWD_Clementine,Human,P,DA,No
+Frisk,Non-binary,UT,Teenager,Teenager,1,0,UT_Frisk,Human,P,PA,No
+Hunter,Custom,BB,Adult,Adult,1,0,BB_Hunter,Human,P,PA,No
+Shield Knight,Female,SK,Adult,Adult,0,1,SK_Shield,Human,P,MC,Yes
+Ellie,Female,TLOU,14,Child,0,0,TLOU_Ellie,Human,P,DA,No
+Elizabeth,Female,BSI,19,Young adult,0,0,BSI_Elizabeth,Human,P,DA,No
+Traveler,Non-binary,JRN,Unknown,Unknown,1,1,JRN_Traveler,Humanoid,P,PA,No
+Amanda,Female,GTAV,43,Middle-aged,0,3,GTAV_Amanda,Human,B,SC,Yes
+Tracy,Female,GTAV,22,Young adult,0,3,GTAV_Tracy,Human,B,SC,No
+Abigail Roberts,Female,RDR2,22,Young adult,0,0,RDR2_Abigail,Human,P,MC,No
+Karen Jons,Female,RDR2,25,Adult,0,0,RDR2_Karen,Human,P,SC,No
+Mary-Beth Gaskill,Female,RDR2,22,Young adult,0,0,RDR2_Mary-Beth,Human,P,SC,No
+Molly O'Shea,Female,RDR2,Young adult,Young adult,0,0,RDR2_Molly,Human,P,SC,No
+Sadie Adler,Female,RDR2,Adult,Adult,0,0,RDR2_Sadie,Human,P,SC,No
+Susan Grimshaw,Female,RDR2,54,Middle-aged,0,0,RDR2_Susan,Human,P,SC,No
+Tilly Jackson,Female,RDR2,Young adult,Young adult,0,0,RDR2_Tilly,Human,P,SC,No
+Tiara,Female,SMO,Unknown,Unknown,0,2,SMO_Tiara,Animated Object,P,SC,No
+Mipha,Female,BOTW,Young adult,Young adult,0,0,BOTW_Mipha,Humanoid,P,MC,No
+Urbosa,Female,BOTW,47,Middle-aged,0,1,BOTW_Urbosa,Human,P,MC,No
+Impa,Female,BOTW,120,Elderly,0,0,BOTW_Impa,Human,P,SC,No
+Riju,Female,BOTW,12,Child,0,1,BOTW_Riju,Human,P,SC,No
+Lillie,Female,PSM,11,Child,0,0,PSM_Lillie,Human,P,MC,No
+Lusamine,Female,PSM,41,Middle-aged,0,0,PSM_Lusamine,Human,A,MA,No
+Yennefer,Female,TW3,Adult,Adult,0,2,TW3_Yennefer,Human,P,MC,Yes
+Triss ,Female,TW3,Adult,Adult,0,2,TW3_Triss,Human,P,SC,Opt
+Keira Metz,Female,TW3,Adult,Adult,0,2,TW3_Keira,Human,P,SC,Opt
+Roach,Female,TW3,Unknown,Unknown,0,0,TW3_Roach,Animal,P,SK,No
+Crones,Female,TW3,Unknown,Unknown,0,0,TW3_Crones,Humanoid,A,SC,No
+Maya,Female,BL2,Adult,Adult,1,0,BL2_Maya,Human,P,PA,No
+Angel Guardian,Female,BL2,Adult,Adult,0,1,BL2_Angel,Human,B,MC,No
+Lilith,Female,BL2,Adult,Adult,0,0,BL2_Lilith,Human,P,MC,No
+Tannis,Female,BL2,Adult,Adult,0,0,BL2_Tannis,Human,P,SC,No
+Katja,Female,TWD,Middle-aged,Middle-aged,0,0,TWD_Katja,Human,P,SC,No
+Carley,Female,TWD,Adult,Adult,0,0,TWD_Carley,Human,P,SC,No
+Lilly,Female,TWD,Adult,Adult,0,0,TWD_Lilly,Human,B,MC,No
+Brenda,Female,TWD,Adult,Adult,0,0,TWD_Brenda,Human,A,SC,No
+Jolene,Female,TWD,Adult,Adult,0,0,TWD_Jolene,Human,B,SC,No
+Molly,Female,TWD,Young adult,Young adult,0,0,TWD_Molly,Human,P,SC,No
+Christa,Female,TWD,Adult,Adult,0,0,TWD_Christa,Human,P,SC,No
+Brie,Female,TWD,Adult,Adult,0,0,TWD_Brie,Human,P,SC,No
+Freya,Female,GOW,Adult,Adult,0,0,GOW_Freya,Human,P,MC,No
+Elena,Female,UC4,Adult,Adult,0,0,UC4_Elena,Human,P,SC,Yes
+Nadine,Female,UC4,Adult,Adult,0,0,UC4_Nadine,Human,A,MC,No
+Toriel,Female,UT,Adult,Adult,0,0,UT_Toriel,Humanoid,P,MC,No
+Undyne,Female,UT,Adult,Adult,0,0,UT_Undyne,Humanoid,B,MC,No
+Dr.Alphys,Female,UT,Adult,Adult,0,0,UT_Dr.Alphys,Humanoid,P,MC,No
+Chara,Non-binary,UT,Adult,Adult,0,0,UT_Chara,Human,P,SC,No
+Michael,Male,GTAV,48,Middle-aged,1,0,GTAV_Michael,Human,P,PA,No
+Trevor,Male,GTAV,46,Middle-aged,1,0,GTAV_Trevor,Human,P,PA,No
+Franklin,Male,GTAV,25,Adult,1,0,GTAV_Franklin,Human,P,PA,No
+Jimmy,Male,GTAV,20,Young adult,0,0,GTAV_Jimmy,Human,P,SC,No
+Lamar,Male,GTAV,26,Adult,0,0,GTAV_Lamar,Human,P,MC,No
+Lester,Male,GTAV,Unknown,Unknown,0,0,GTAV_Lester,Human,P,SC,No
+Devin,Male,GTAV,51,Middle-aged,0,0,GTAV_Devin,Human,A,MA,No
+Steve,Male,GTAV,38,Adult,0,0,GTAV_Steve,Human,A,SC,No
+Chop,Male,GTAV,Unknown,Unknown,0,0,GTAV_Chop,Animal,P,SK,No
+Leon,Male,PSS,20,Young adult,0,0,PSS_Leon,Human,P,SC,No
+Hop,Male,PSS,Teenager,Teenager,0,0,PSS_Hop,Human,P,DA,No
+Rose,Male,PSS,Adult,Adult,0,0,PSS_Rose,Human,A,MA,No
+Bede,Male,PSS,Teenager,Teenager,0,0,PSS_Bede,Human,B,MC,No
+Alex Echo,Male,CODMW,Adult,Adult,1,0,CODMW_Alex,Human,P,PA,No
+Hadir Karim,Male,CODMW,Adult,Adult,0,0,CODMW_Hadir,Human,B,MC,No
+Kyle Garrick,Male,CODMW,Adult,Adult,1,0,CODMW_Kyle,Human,P,PA,No
+Price John,Male,CODMW,Adult,Adult,0,0,CODMW_Price,Human,P,MC,No
+Barkov Roman,Male,CODMW,Adult,Adult,0,0,CODMW_Barkov,Human,A,MA,No
+Arthur Morgan,Male,RDR2,36,Adult,1,0,RDR2_Arthur,Human,P,PA,No
+John Marston,Male,RDR2,26,Adult,0,0,RDR2_John,Human,P,MC,No
+Bill Williamson,Male,RDR2,33,Adult,0,0,RDR2_Bill,Human,P,MC,No
+Charles Smith,Male,RDR2,27,Adult,0,0,RDR2_Charles,Human,P,MC,No
+Hosea Matthews,Male,RDR2,55,Middle-aged,0,0,RDR2_Hosea,Human,P,MC,No
+Jack Marston,Male,RDR2,4,Infant,0,0,RDR2_Jack,Human,P,SC,No
+Javier Escuella,Male,RDR2,42,Middle-aged,0,0,RDR2_Javier,Human,P,SC,No
+Josiah Trelawney,Male,RDR2,Adult,Adult,0,0,RDR2_Josiah,Human,P,SC,No
+Kieran Duffy,Male,RDR2,37,Adult,0,0,RDR2_Kieran,Human,P,SC,No
+Lenny Summers,Male,RDR2,19,Young adult,0,0,RDR2_Lenny,Human,P,SC,No
+Leopold Strauss,Male,RDR2,53,Middle-aged,0,0,RDR2_Leopold,Human,P,SC,No
+Micah Bell,Male,RDR2,39,Adult,0,0,RDR2_Micah,Human,B,MC,No
+Mr.Pearson,Male,RDR2,Middle-aged,Middle-aged,0,0,RDR2_Mr.Pearson,Human,P,SC,No
+Swanson Reverend,Male,RDR2,46,Middle-aged,0,0,RDR2_Swanson,Human,P,SC,No
+Sean McGuire,Male,RDR2,Young adult,Young adult,0,0,RDR2_Sean,Human,P,SC,No
+Uncle,Male,RDR2,61,Middle-aged,0,0,RDR2_Uncle,Human,P,SC,No
+Cornwall,Male,RDR2,Middle-aged,Middle-aged,0,0,RDR2_Cornwall,Human,A,MA,No
+Mario,Male,SMO,Adult,Adult,1,0,SMO_Mario,Human,P,PA,No
+Cappy,Male,SMO,Unknown,Unknown,1,0,SMO_Cappy,Animated Object,P,SK,No
+Bowser,Male,SMO,Unknown,Unknown,0,0,SMO_Bowser,Humanoid,A,MA,No
+Link,Male,BOTW,17,Teenager,1,0,BOTW_Link,Human,P,PA,No
+Daruk,Male,BOTW,50,Middle-aged,0,0,BOTW_Daruk,Humanoid,P,MC,No
+Revali,Male,BOTW,21,Young adult,0,0,BOTW_Revali,Humanoid,P,MC,No
+Rhoam,Male,BOTW,Middle-aged,Middle-aged,0,0,BOTW_Rhoam,Human,P,MC,No
+Yunobo,Male,BOTW,Teenager,Teenager,0,0,BOTW_Yunobo,Humanoid,P,SC,No
+Sidon,Male,BOTW,Young adult,Young adult,0,0,BOTW_Sidon,Humanoid,P,SC,No
+Teba,Male,BOTW,Adult,Adult,0,0,BOTW_Teba,Humanoid,P,SC,No
+Bludo,Male,BOTW,Adult,Adult,0,0,BOTW_Bludo,Humanoid,P,SC,No
+Dorephan,Male,BOTW,Elderly,Elderly,0,0,BOTW_Dorephan,Humanoid,P,SC,No
+Kaneli,Male,BOTW,Elderly,Elderly,0,0,BOTW_Kaneli,Humanoid,P,SC,No
+Kohga,Male,BOTW,Adult,Adult,0,0,BOTW_Kohga,Humanoid,A,SC,No
+DekuTree,Male,BOTW,Elderly,Elderly,0,0,BOTW_DekuTree,Animated Plant,P,SC,No
+Ganon,Male,BOTW,Unknown,Unknown,0,0,BOTW_Ganon,Creature,A,MA,No
+Hau,Male,PSM,11,Child,0,0,PSM_Hau,Human,P,MC,No
+Professor Kukui,Male,PSM,Adult,Adult,0,0,PSM_Professor,Human,P,SC,No
+Guzma,Male,PSM,Adult,Adult,0,0,PSM_Guzma,Human,A,MC,No
+Gladion,Male,PSM,Teenager,Teenager,0,0,PSM_Gladion,Human,A,SC,No
+Geralt,Male,TW3,Adult,Adult,1,2,TW3_Geralt,Human,P,PA,No
+Emhyr,Male,TW3,Adult,Adult,0,0,TW3_Emhyr,Human,A,SC,No
+Dandelion,Male,TW3,Adult,Adult,0,0,TW3_Dandelion,Human,P,SC,No
+Avallac'h,Male,TW3,Adult,Adult,0,0,TW3_Avallac'h,Human,B,MC,No
+Sigismund Dijkstra,Male,TW3,Adult,Adult,0,0,TW3_Sigismund,Human,B,SC,No
+Baron Bloody,Male,TW3,Adult,Adult,0,0,TW3_Baron,Human,B,SC,No
+Eredin,Male,TW3,Unknown,Unknown,0,0,TW3_Eredin,Human,A,MA,No
+Vesemir,Male,TW3,Adult,Adult,0,0,TW3_Vesemir,Human,B,SC,No
+Zoltan,Male,TW3,Adult,Adult,0,0,TW3_Zoltan,Human,P,SC,No
+Regis,Male,TW3,Adult,Adult,0,0,TW3_Regis,Human,P,SC,No
+Lambert,Male,TW3,Adult,Adult,0,0,TW3_Lambert,Human,P,SC,No
+Whoreson Junior,Male,TW3,Adult,Adult,0,0,TW3_Whoreson,Human,A,SC,No
+WildHunt,Male,TW3,Adult,Adult,0,0,TW3_WildHunt,Human,A,MA,No
+Alex Mason,Male,CODBO2,Adult,Adult,1,0,CODBO2_Alex,Human,P,PA,No
+Raul Mendez,Male,CODBO2,Adult,Adult,0,0,CODBO2_Raul,Human,A,MA,No
+Frank Woods,Male,CODBO2,Adult,Adult,0,0,CODBO2_Frank,Human,P,MC,No
+Jason Hudson,Male,CODBO2,Adult,Adult,0,0,CODBO2_Jason,Human,P,MC,No
+Thomas Briggs,Male,CODBO2,Middle-aged,Middle-aged,0,0,CODBO2_Thomas,Human,P,SC,No
+David Mason,Male,CODBO2,Adult,Adult,1,0,CODBO2_David,Human,P,PA,No
+Jonas Savimbi,Male,CODBO2,Adult,Adult,0,0,CODBO2_Jonas,Human,P,SC,No
+Lev Kravchenko,Male,CODBO2,Adult,Adult,0,0,CODBO2_Lev,Human,A,SC,No
+Mike Harper,Male,CODBO2,Adult,Adult,0,0,CODBO2_Mike,Human,P,SC,No
+Viktor Reznov,Male,CODBO2,Adult,Adult,0,0,CODBO2_Viktor,Human,A,SC,No
+Tian Zhao,Male,CODBO2,Adult,Adult,0,0,CODBO2_Tian,Human,P,SC,No
+Farid,Male,CODBO2,Adult,Adult,0,0,CODBO2_Farid,Human,B,SC,No
+Axton,Male,BL2,Adult,Adult,1,0,BL2_Axton,Human,P,PA,No
+Salvador,Male,BL2,36,Adult,1,0,BL2_Salvador,Human,P,PA,No
+Zer0,Male,BL2,Unknown,Unknown,1,0,BL2_Zer0,Humanoid,P,PA,No
+Roland,Male,BL2,Adult,Adult,0,0,BL2_Roland,Human,P,MC,No
+Brick,Male,BL2,Adult,Adult,0,0,BL2_Brick,Human,P,SC,No
+Mordecai,Male,BL2,Adult,Adult,0,0,BL2_Mordecai,Human,P,SC,No
+Handsome Jack,Male,BL2,Adult,Adult,0,0,BL2_Handsome,Human,A,MA,No
+Wilhelm,Male,BL2,Adult,Adult,0,0,BL2_Wilhelm,Human,A,SC,No
+Lee Everett,Male,TWD,Adult,Adult,1,0,TWD_Lee,Human,P,PA,No
+Hershel Greene,Male,TWD,49,Middle-aged,0,0,TWD_Hershel,Human,B,SC,No
+Kenny,Male,TWD,Middle-aged,Middle-aged,0,0,TWD_Kenny,Human,P,MC,No
+Duck,Male,TWD,10,Child,0,0,TWD_Duck,Human,P,SC,No
+Glenn,Male,TWD,22,Young adult,0,0,TWD_Glenn,Human,P,SC,No
+Larry,Male,TWD,Elderly,Elderly,0,0,TWD_Larry,Human,B,SC,No
+Mark,Male,TWD,Adult,Adult,0,0,TWD_Mark,Human,P,SC,No
+Ben,Male,TWD,18,Young adult,0,0,TWD_Ben,Human,P,MC,No
+Andrew,Male,TWD,Adult,Adult,0,0,TWD_Andrew,Human,A,SC,No
+Danny,Male,TWD,Adult,Adult,0,0,TWD_Danny,Human,A,SC,No
+Chuck,Male,TWD,Middle-aged,Middle-aged,0,0,TWD_Chuck,Human,P,SC,No
+Vernon,Male,TWD,Elderly,Elderly,0,0,TWD_Vernon,Human,P,SC,No
+Omid,Male,TWD,Adult,Adult,0,0,TWD_Omid,Human,P,SC,No
+Campman,Male,TWD,Adult,Adult,0,0,TWD_Campman,Human,A,MA,No
+Kratos,Male,GOW,Adult,Adult,1,0,GOW_Kratos,Human,P,PA,No
+Atreus,Male,GOW,11,Child,0,0,GOW_Atreus,Human,P,DA,No
+Baldur,Male,GOW,Adult,Adult,0,0,GOW_Baldur,Human,A,MA,No
+Modi,Male,GOW,Adult,Adult,0,0,GOW_Modi,Human,A,SC,No
+Magni,Male,GOW,Adult,Adult,0,0,GOW_Magni,Human,A,SC,No
+Mimir,Male,GOW,Adult,Adult,0,0,GOW_Mimir,Humanoid,P,MC,No
+Nate,Male,UC4,38,Adult,1,0,UC4_Nate,Human,P,PA,No
+Sully,Male,UC4,65,Elderly,0,0,UC4_Sully,Human,P,MC,No
+Sam,Male,UC4,Adult,Adult,0,0,UC4_Sam,Human,P,SK,No
+Rafe Adler,Male,UC4,Adult,Adult,0,0,UC4_Rafe,Human,A,MA,No
+Protagonist,Male,INS,Child,Child,1,0,INS_Protagonist,Human,P,PA,No
+CEO,Male,INS,Adult,Adult,0,0,INS_CEO,Human,A,MA,No
+Flowey,Male,UT,Unknown,Unknown,0,0,UT_Flowey,Animated Plant,B,MC,No
+Sans,Male,UT,Unknown,Unknown,0,0,UT_Sans,Humanoid,P,MC,No
+Papyrus,Male,UT,Adult,Adult,0,0,UT_Papyrus,Humanoid,P,MC,No
+Mettaton,Male,UT,Unknown,Unknown,0,0,UT_Mettaton,Humanoid,B,MC,No
+Asgore Dreemurr,Male,UT,Adult,Adult,0,0,UT_Asgore,Humanoid,A,MC,No
+Asriel,Male,UT,Child,Child,0,0,UT_Asriel,Humanoid,B,MC,No
+Doll,Female,BB,Unknown,Unknown,0,0,BB_Doll,Humanoid,P,SC,No
+Gahrman,Male,BB,Elderly,Elderly,0,0,BB_Gahrman,Human,B,MC,No
+Gascoigne,Male,BB,Unknown,Unknown,0,0,BB_Gascoigne,Human,A,SC,No
+Micolash,Male,BB,Unknown,Unknown,0,0,BB_Micolash,Human,A,MA,No
+Shovel Knight,Male,SK,Adult,Adult,1,0,SK_Shovel,Human,P,PA,No
+Black Knight,Male,SK,Adult,Adult,0,0,SK_Black,Human,A,MC,No
+Enchantress,Female,SK,Adult,Adult,0,0,SK_Enchantress,Humanoid,A,MA,No
+King Knight,Male,SK,Adult,Adult,0,0,SK_King,Human,A,SC,No
+Specter Knight,Male,SK,Adult,Adult,0,0,SK_Specter,Human,A,SC,No
+Plague Knight,Male,SK,Adult,Adult,0,0,SK_Plague,Humanoid,A,SC,No
+Treasure Knight,Male,SK,Adult,Adult,0,0,SK_Treasure,Human,A,SC,No
+Mole Knight,Male,SK,Adult,Adult,0,0,SK_Mole,Human,A,SC,No
+Tinked Knight,Male,SK,Adult,Adult,0,0,SK_Tinked,Human,A,SC,No
+Polar Knight,Male,SK,Adult,Adult,0,0,SK_Polar,Human,A,SC,No
+Propeller Knight,Male,SK,Adult,Adult,0,0,SK_Propeller,Human,A,SC,No
+Inspector,Male,PP,Adult,Adult,1,0,PP_Inspector,Human,P,PA,No
+Jorji Costava,Male,PP,Adult,Adult,0,0,PP_Jorji,Human,B,MC,No
+Wife,Female,PP,Adult,Adult,0,1,PP_Wife,Human,P,SC,Yes
+Son,Male,PP,Child,Child,0,1,PP_Son,Human,P,SC,No
+Mother-in-law,Female,PP,Elderly,Elderly,0,1,PP_Mother-in-law,Human,P,SC,No
+Uncle,Male,PP,Elderly,Elderly,0,1,PP_Uncle,Human,P,SC,No
+Joel,Male,TLOU,52,Middle-aged,1,0,TLOU_Joel,Human,P,PA,No
+Tess,Female,TLOU,Adult,Adult,0,0,TLOU_Tess,Human,P,SC,No
+Marlene,Female,TLOU,Adult,Adult,0,0,TLOU_Marlene,Human,A,MC,No
+Tommy,Male,TLOU,45,Middle-aged,0,0,TLOU_Tommy,Human,P,SC,No
+Bill,Male,TLOU,Middle-aged,Middle-aged,0,0,TLOU_Bill,Human,P,SC,No
+Henry,Male,TLOU,25,Adult,0,0,TLOU_Henry,Human,P,SC,No
+Sam,Male,TLOU,13,Child,0,0,TLOU_Sam,Human,P,SC,No
+David,Male,TLOU,Adult,Adult,0,0,TLOU_David,Human,A,SC,No
+Booker,Male,BSI,38,Adult,1,0,BSI_Booker,Human,P,PA,No
+Songbird,Non-binary,BSI,Unknown,Unknown,0,0,BSI_Songbird,Robot,B,MC,No
+Comstock,Male,BSI,38,Adult,0,0,BSI_Comstock,Human,A,MA,No
+Robert Lutece,Male,BSI,Adult,Adult,0,0,BSI_Robert,Human,B,MC,No
+Rosalind Lutece,Female,BSI,Adult,Adult,0,0,BSI_Rosalind,Human,B,MC,No
+Daisy Fitzroy,Female,BSI,Adult,Adult,0,0,BSI_Daisy,Human,B,SC,No
+Jacket,Male,HLM,Adult,Adult,1,0,HLM_Jacket,Human,B,PA,No
+Biker,Male,HLM,Adult,Adult,1,0,HLM_Biker,Human,B,PA,No
+Girlfriend,Female,HLM,Adult,Adult,0,2,HLM_Girlfriend,Human,P,SC,Yes
+Richard,Male,HLM,Adult,Adult,0,0,HLM_Richard,Human,B,SC,No
+Rasmus,Male,HLM,Adult,Adult,0,0,HLM_Rasmus,Human,B,SC,No
+DonJuan,Female,HLM,Adult,Adult,0,0,HLM_DonJuan,Human,B,SC,No
+Beard,Male,HLM,Adult,Adult,0,0,HLM_Beard,Human,P,MC,No
+Dennis Janitor,Male,HLM,Adult,Adult,0,0,HLM_Dennis,Human,A,SC,No
+Jonatan Janitor,Male,HLM,Adult,Adult,0,0,HLM_Jonatan,Human,A,SC,No
+Richter,Male,HLM,Adult,Adult,0,0,HLM_Richter,Human,A,SC,No
+Ancestor,Non-binary,JRN,Unknown,Unknown,0,0,JRN_Ancestor,Humanoid,P,SC,No
+Companions,Non-binary,JRN,Unknown,Unknown,0,0,JRN_Companions,Humanoid,P,SC,No
+War Machines,Non-binary,JRN,Unknown,Unknown,0,0,JRN_War,Robot,A,MA,No
+Jason Brody,Male,FC3,25,Adult,1,0,FC3_Jason,Human,P,PA,No
+Vaas Montenegro,Male,FC3,28,Adult,0,0,FC3_Vaas,Human,P,MA,No
+Grant,Male,FC3,30,Adult,0,0,FC3_Grant,Human,P,SC,No
+Dennis,Male,FC3,37,Adult,0,0,FC3_Dennis,Human,B,SC,No
+Daisy Fitzroy,Female,FC3,26,Adult,0,0,FC3_Daisy,Human,P,SC,No
+Dr.Earnhardt,Male,FC3,66,Elderly,0,0,FC3_Dr.Earnhardt,Human,B,SC,No
+Citra Taulgami,Female,FC3,29,Adult,0,3,FC3_Citra,Human,B,MC,Yes
+Willis Huntley,Male,FC3,70,Elderly,0,0,FC3_Willis,Human,P,SC,No
+Liza,Female,FC3,24,Young adult,0,1,FC3_Liza,Human,P,SC,Yes
+Keith,Male,FC3,24,Young adult,0,0,FC3_Keith,Human,P,SC,No
+Oliver,Male,FC3,23,Young adult,0,0,FC3_Oliver,Human,P,SC,No
+Hoyt Volker,Male,FC3,48,Middle-aged,0,0,FC3_Hoyt,Human,A,MA,No
+Sam Becker,Male,FC3,40,Middle-aged,0,0,FC3_Sam,Human,P,SC,No
+Riley,Male,FC3,21,Young adult,0,0,FC3_Riley,Human,P,SC,No
+Joker,Male,PSN5,16,Teenager,1,0,PSN5_Joker,Human,P,PA,No
+Igor,Male,PSN5,Unknown,Unknown,0,0,PSN5_Igor,Human,P,MC,No
+Ryuji Sakamoto,Male,PSN5,16,Teenager,1,0,PSN5_Ryuji,Human,P,DA,No
+Kamoshida,Male,PSN5,Adult,Adult,0,0,PSN5_Kamoshida,Human,A,SC,No
+Morgana,Female,PSN5,15,Teenager,1,0,PSN5_Morgana,Humanoid-Animal,P,SK,No
+Goro Akechi,Male,PSN5,18,Young adult,1,0,PSN5_Goro,Human,B,MC,No
+Shido,Male,PSN5,53,Middle-aged,0,0,PSN5_Shido,Human,A,MA,No
+Lavenza,Female,PSN5,Unknown,Unknown,0,0,PSN5_Lavenza,Human,B,SC,No
+Sojiro Sakura,Male,PSN5,Middle-aged,Middle-aged,0,0,PSN5_Sojiro,Human,P,SC,No
+Ann Takamaki,Female,PSN5,16,Teenager,1,2,PSN5_Ann,Human,P,DA,Opt
+Shiho,Female,PSN5,Teenager,Teenager,0,1,PSN5_Shiho,Human,P,SC,No
+Yusuke Kitagawa,Male,PSN5,16,Teenager,1,0,PSN5_Yusuke,Human,P,MC,No
+Makoto Nijima,Female,PSN5,17,Teenager,1,0,PSN5_Makoto,Human,P,MC,Opt
+Sae Nijima,Female,PSN5,24,Young adult,0,0,PSN5_Sae,Human,B,MC,No
+Futaba Sakura,Female,PSN5,15,Teenager,0,0,PSN5_Futaba,Human,P,MC,Opt
+Haru Okumura,Female,PSN5,17,Teenager,1,0,PSN5_Haru,Human,P,MC,Opt
+Madarame,Male,PSN5,Middle-aged,Middle-aged,0,0,PSN5_Madarame,Human,A,SC,No
+Kaneshiro,Male,PSN5,38,Adult,0,0,PSN5_Kaneshiro,Human,A,SC,No
+Fox,Non-binary,TN,Unknown,Unknown,1,0,TN_Fox,Humanoid-Animal,P,PA,No
+Heir,Non-binary,TN,Unknown,Unknown,0,0,TN_Heir,Humanoid-Animal,A,MA,No
+Tarnished,Custom,ER,Adult,Adult,1,0,ER_Tarnished,Human,P,PA,No
+Melina,Female,ER,Adult,Adult,0,0,ER_Melina,Human,P,SK,No
+Finger Reader Enia,Female,ER,Unknown,Unknown,0,0,ER_Finger,Humanoid,P,SC,No
+Queen Marika,Female,ER,Adult,Adult,0,0,ER_Queen,Human,A,MA,No
+Two Fingers,Non-binary,ER,Unknown,Unknown,0,0,ER_Two,Creature,P,SC,No
+Morgott,Male,ER,Adult,Adult,0,0,ER_Morgott,Creature,A,SC,No
+Maliketh,Male,ER,Adult,Adult,0,0,ER_Maliketh,Creature,A,SC,No
+Radagon,Male,ER,Adult,Adult,0,0,ER_Radagon,Human,A,SC,No
+Elden Beast,Non-binary,ER,Unknown,Unknown,0,0,ER_Elden,Creature,A,SC,No
+Ranni the Witch,Female,ER,Adult,Adult,0,0,ER_Ranni,Humanoid,P,MC,Yes
+Miriel,Male,ER,Adult,Adult,0,0,ER_Miriel,Animal,P,SC,No
+Fia,Female,ER,Adult,Adult,0,0,ER_Fia,Humanoid,P,SC,No
+Radhan,Male,ER,Adult,Adult,0,0,ER_Radhan,Creature,A,SC,No
+Rykard,Male,ER,Adult,Adult,0,0,ER_Rykard,Creature,A,SC,No
+Blaidd,Male,ER,Adult,Adult,0,0,ER_Blaidd,Humanoid,P,SC,No
+Malenia,Female,ER,Adult,Adult,0,0,ER_Malenia,Human,P,SC,No
+Godwyn,Male,ER,Adult,Adult,0,0,ER_Godwyn,Human,A,SC,No
+Mohg,Male,ER,Adult,Adult,0,0,ER_Mohg,Creature,A,SC,No
+Miquella,Male,ER,Adult,Adult,0,0,ER_Miquella,Human,A,SC,No
+Stanley,Male,TSPUD,Adult,Adult,1,0,TSPUD_Stanley,Human,P,PA,No
+Narrator,Male,TSPUD,Unknown,Unknown,0,0,TSPUD_Narrator,Unknown,A,MA,No
+White,Male,NW,Adult,Adult,1,0,NW_White,Human,P,PA,No
+Mikey,Male,NW,Unknown,Unknown,0,0,NW_Mikey,Humanoid-Animal,P,MC,No
+Green,Male,NW,Adult,Adult,0,0,NW_Green,Human,A,MA,No
+Believers,Non-binary,NW,Unknown,Unknown,0,0,NW_Believers,Human,A,MC,No
+Red,Female,NW,Adult,Adult,0,1,NW_Red,Human,P,MC,Yes
+Violet,Female,NW,Adult,Adult,0,2,NW_Violet,Human,B,MC,No
+Yellow,Male,NW,Adult,Adult,0,0,NW_Yellow,Human,P,MC,No
+Raz,Male,NW,Unknown,Unknown,0,0,NW_Raz,Humanoid-Animal,P,SC,No
+Gabby,Female,NW,Unknown,Unknown,0,0,NW_Gabby,Humanoid-Animal,P,SC,No
+Cuphead,Male,CH,Unknown,Unknown,1,0,CH_Cuphead,Animated Object,P,PA,No
+Mugman,Male,CH,Unknown,Unknown,1,0,CH_Mugman,Animated Object,P,PA,No
+Elder Kettle,Male,CH,Unknown,Unknown,0,0,CH_Elder,Animated Object,P,SC,No
+Devil,Male,CH,Unknown,Unknown,0,0,CH_Devil,Humanoid,A,MA,No
+King Dice,Male,CH,Unknown,Unknown,0,0,CH_King,Animated Object,A,SC,No
+Porkrind,Male,CH,Unknown,Unknown,0,0,CH_Porkrind,Humanoid-Animal,P,SC,No
+Chalice the Legendary,Female,CH,Unknown,Unknown,0,1,CH_Chalice,Animated Object,P,SC,No
+Colt Vahn,Male,DL,Adult,Adult,1,0,DL_Colt,Human,P,PA,No
+Juliana,Female,DL,Adult,Adult,0,0,DL_Juliana,Human,B,MA,No
+Fia,Female,DL,Adult,Adult,0,0,DL_Fia,Human,A,MC,No
+Egor,Male,DL,Adult,Adult,0,0,DL_Egor,Human,A,MC,No
+Frank,Male,DL,Adult,Adult,0,0,DL_Frank,Human,A,MC,No
+Wenjie,Female,DL,Adult,Adult,0,0,DL_Wenjie,Human,A,MC,No
+Charlie,Male,DL,Adult,Adult,0,0,DL_Charlie,Human,A,MC,No
+Harriet,Female,DL,Adult,Adult,0,0,DL_Harriet,Human,A,MC,No
+Aleksis,Male,DL,Adult,Adult,0,0,DL_Aleksis,Human,A,MC,No
+2B,Female,NRA,Young adult,Young adult,1,1,NRA_2B,Android-Robot,P,PA,No
+9S,Male,NRA,Young adult,Young adult,1,0,NRA_9S,Android-Robot,P,DA,No
+A2,Female,NRA,Young adult,Young adult,1,1,NRA_A2,Android-Robot,B,DA,No
+Pods,Non-binary,NRA,Unknown,Unknown,0,0,NRA_Pods,Robot,P,SK,No
+Adam,Male,NRA,Adult,Adult,0,0,NRA_Adam,Android-Robot,A,MC,No
+Eve,Male,NRA,Adult,Adult,0,1,NRA_Eve,Android-Robot,A,MC,No
+Red Girls,Female,NRA,Teenager,Teenager,0,0,NRA_Red,Android-Robot,A,MC,No
+Commander,Female,NRA,Adult,Adult,0,0,NRA_Commander,Android-Robot,P,MC,No
+Anemone,Female,NRA,Adult,Adult,0,0,NRA_Anemone,Android-Robot,P,SC,No
+Pascal,Male,NRA,Unknown,Unknown,0,0,NRA_Pascal,Robot,P,SC,No
+Devola,Female,NRA,Adult,Adult,0,0,NRA_Devola,Android-Robot,P,MC,No
+Popola,Female,NRA,Adult,Adult,0,0,NRA_Popola,Android-Robot,P,MC,No
+Emil,Male,NRA,Child,Child,0,0,NRA_Emil,Human,P,SC,No
+Cal,Male,IWATE,Teenager,Teenager,0,0,IWATE_Cal,Human,P,MC,Opt
+Anemone,Female,IWATE,Teenager,Teenager,0,0,IWATE_Anemone,Human,P,MC,Opt
+Dys,Male,IWATE,Teenager,Teenager,0,0,IWATE_Dys,Human,P,MC,Opt
+Marz,Female,IWATE,Teenager,Teenager,0,0,IWATE_Marz,Human,P,MC,Opt
+Rex,Male,IWATE,Teenager,Teenager,0,0,IWATE_Rex,Human,P,MC,Opt
+Tangent,Female,IWATE,Teenager,Teenager,0,0,IWATE_Tangent,Human,P,MC,Opt
+Vace,Male,IWATE,Teenager,Teenager,0,0,IWATE_Vace,Human,P,MC,Opt
+Nomi Nomi,Non-binary,IWATE,Teenager,Teenager,0,0,IWATE_Nomi,Human,P,MC,Opt
+Sym,Male,IWATE,Teenager,Teenager,0,0,IWATE_Sym,Human,P,MC,Opt
+Tammy,Female,IWATE,Teenager,Teenager,0,0,IWATE_Tammy,Human,P,MC,Opt
+Protagonist,Custom,IWATE,Teenager,Teenager,1,0,IWATE_Protagonist,Human,P,PA,No
+Flulu,Female,IWATE,Adult,Adult,0,0,IWATE_Flulu,Human,P,SC,No
+Geranium,Male,IWATE,Adult,Adult,0,0,IWATE_Geranium,Human,P,SC,No
+Eudicot,Female,IWATE,Elderly,Elderly,0,0,IWATE_Eudicot,Human,P,SC,No
+Baculum,Male,IWATE,Adult,Adult,0,0,IWATE_Baculum,Human,P,SC,No
+Instance,Female,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Instance,Human,P,SC,No
+Hal,Male,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Hal,Human,P,SC,No
+Tonin,Male,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Tonin,Human,P,SC,No
+Utopia,Female,IWATE,Adult,Adult,0,0,IWATE_Utopia,Human,P,SC,No
+Rhett,Male,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Rhett,Human,P,SC,No
+Congruence,Female,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Congruence,Robot,P,SC,No
+Seeq,Non-binary,IWATE,Middle-aged,Middle-aged,0,0,IWATE_Seeq,Human,P,SC,No
+Kom,Male,IWATE,Adult,Adult,0,0,IWATE_Kom,Human,P,SC,No
+Nougat,Female,IWATE,Child,Child,0,0,IWATE_Nougat,Human,P,SC,No
+Tirah,Female,IWATE,Adult,Adult,0,0,IWATE_Tirah,Human,P,SC,No
+Al,Male,IWATE,Adult,Adult,0,0,IWATE_Al,Human,P,SC,No
+Bernie,Male,IWATE,Adult,Adult,0,0,IWATE_Bernie,Human,P,SC,No
+Marissa Marcel,Female,IMM,Adult,Adult,0,0,IMM_Marissa,Human,P,MC,No
+One,Non-binary,IMM,Unknown,Unknown,0,0,IMM_One,Unknown,P,PA,No
+Other One,Non-binary,IMM,Unknown,Unknown,0,0,IMM_Other,Unknown,P,PA,No
+John Durick,Male,IMM,Adult,Adult,0,0,IMM_John,Human,P,MC,No
+Arthur Fischer,Male,IMM,Adult,Adult,0,0,IMM_Arthur,Human,P,SC,No
+Carl Goodman,Male,IMM,Adult,Adult,0,0,IMM_Carl,Human,P,SC,No
+Amy Archer,Female,IMM,Adult,Adult,0,0,IMM_Amy,Human,P,SC,No
+Harrier Du Bois,Male,DEL,44,Middle-aged,1,0,DEL_Harrier,Human,P,PA,No
+Kim Kitsuragi,Male,DEL,43,Middle-aged,0,0,DEL_Kim,Human,P,DA,No
+Alice DeMettrie,Female,DEL,Adult,Adult,0,0,DEL_Alice,Human,P,SC,No
+Zagreus,Male,HA,Adult,Adult,1,0,HA_Zagreus,Human,P,PA,No
+Hades,Male,HA,Adult,Adult,0,0,HA_Hades,Human,A,MA,No
+Persephone,Female,HA,Adult,Adult,0,0,HA_Persephone,Human,P,MC,No
+Nyx,Female,HA,Adult,Adult,0,0,HA_Nyx,Human,P,MC,No
+Dionysus,Male,HA,Adult,Adult,0,0,HA_Dionysus,Human,P,MC,No
+Hermes,Male,HA,Adult,Adult,0,0,HA_Hermes,Human,P,MC,No
+Aphrodite,Female,HA,Adult,Adult,0,0,HA_Aphrodite,Human,P,MC,No
+Thanatos,Male,HA,Adult,Adult,0,0,HA_Thanatos,Human,P,MC,No
+Megaera,Female,HA,Adult,Adult,0,0,HA_Megaera,Human,P,MC,No
+Achilles,Male,HA,Adult,Adult,0,0,HA_Achilles,Human,P,MC,No
+Artemis,Female,HA,Adult,Adult,0,0,HA_Artemis,Human,P,MC,No
+Poseidon,Male,HA,Adult,Adult,0,0,HA_Poseidon,Human,P,MC,No
+Zeus,Male,HA,Adult,Adult,0,0,HA_Zeus,Human,P,MC,No
+Demeter,Female,HA,Adult,Adult,0,0,HA_Demeter,Human,P,MC,No
+Athena,Female,HA,Adult,Adult,0,0,HA_Athena,Human,P,MC,No
+Ares,Male,HA,Adult,Adult,0,0,HA_Ares,Human,P,MC,No
+Pizza,Non-binary,CACW,Unknown,Unknown,1,0,CACW_Pizza,Humanoid-Animal,P,PA,No
+Chicory,Female,CACW,Unknown,Unknown,0,0,CACW_Chicory,Humanoid-Animal,P,MC,No
+Blackberry,Female,CACW,Unknown,Unknown,0,0,CACW_Blackberry,Humanoid-Animal,P,MC,No
+Cody,Male,ITT,Adult,Adult,1,0,ITT_Cody,Human,P,PA,Yes
+May,Female,ITT,Adult,Adult,1,0,ITT_May,Human,P,PA,Yes
+Rose,Female,ITT,Child,Child,0,0,ITT_Rose,Human,P,MC,No
+Dr.Hakim,Male,ITT,Unknown,Unknown,0,0,ITT_Dr.Hakim,Animated Object,P,MC,No
+Ellie,Female,TLOU2,19,Young adult,1,0,TLOU2_Ellie,Human,B,PA,No
+Abby,Female,TLOU2,20,Young adult,1,0,TLOU2_Abby,Human,B,PA,No
+Joel,Male,TLOU2,57,Middle-aged,0,0,TLOU2_Joel,Human,B,MC,No
+Tommy,Male,TLOU2,Middle-aged,Middle-aged,0,0,TLOU2_Tommy,Human,B,MC,No
+Dina,Female,TLOU2,Young adult,Young adult,0,0,TLOU2_Dina,Human,B,MC,Yes
+Jesse,Male,TLOU2,Young adult,Young adult,0,0,TLOU2_Jesse,Human,B,MC,No
+Lev,Male,TLOU2,13,Child,0,0,TLOU2_Lev,Human,B,SC,No
+Yara,Female,TLOU2,16,Teenager,0,0,TLOU2_Yara,Human,B,SC,No
+Manny,Male,TLOU2,Adult,Adult,0,0,TLOU2_Manny,Human,B,SC,No
+Owen,Male,TLOU2,23,Young adult,0,0,TLOU2_Owen,Human,B,SC,Yes
+Nora,Female,TLOU2,Young adult,Young adult,0,0,TLOU2_Nora,Human,B,SC,No
+Alyx,Female,HLA,19,Young adult,1,0,HLA_Alyx,Human,P,PA,No
+Eli Vance,Male,HLA,Middle-aged,Middle-aged,0,0,HLA_Eli,Human,P,MC,No
+Russell,Male,HLA,Middle-aged,Middle-aged,0,0,HLA_Russell,Human,P,SK,No
+Gary,Male,HLA,Unknown,Unknown,0,0,HLA_Gary,Humanoid,P,MC,No
+G-Man,Male,HLA,Middle-aged,Middle-aged,0,0,HLA_G-Man,Human,P,MA,No
+Ku,Female,OAWW,Unknown,Unknown,0,0,OAWW_Ku,Animal,P,MC,No
+Naru,Female,OAWW,Unknown,Unknown,0,0,OAWW_Naru,Creature,P,SC,No
+Ori,Non-binary,OAWW,Unknown,Unknown,1,0,OAWW_Ori,Creature,P,PA,No
+Gumo,Male,OAWW,Unknown,Unknown,0,0,OAWW_Gumo,Creature,P,SC,No
+Kwolok,Male,OAWW,Unknown,Unknown,0,0,OAWW_Kwolok,Creature,P,MC,No
+Sein,Non-binary,OAWW,Unknown,Unknown,0,0,OAWW_Sein,Animated Object,P,SK,No
+Baur,Male,OAWW,Unknown,Unknown,0,0,OAWW_Baur,Animal,P,SC,No
+Shriek,Female,OAWW,Unknown,Unknown,0,0,OAWW_Shriek,Creature,A,MA,No
+Hero,Male,DQXI,16,Teenager,1,0,DQXI_Hero,Human,P,PA,No
+Rab,Male,DQXI,70,Elderly,1,0,DQXI_Rab,Human,P,MC,Opt
+Serena,Female,DQXI,16,Teenager,1,0,DQXI_Serena,Human,P,MC,Opt
+Jade,Female,DQXI,21,Young adult,1,2,DQXI_Jade,Human,P,MC,Opt
+Erik,Male,DQXI,19,Young adult,1,0,DQXI_Erik,Human,P,MC,Opt
+Sylvando,Male,DQXI,Adult,Adult,1,0,DQXI_Sylvando,Human,P,MC,Opt
+Veronica,Female,DQXI,16,Teenager,1,0,DQXI_Veronica,Human,P,MC,Opt
+King Carnelian,Male,DQXI,Elderly,Elderly,0,0,DQXI_King,Human,B,SC,No
+Jasper,Male,DQXI,36,Adult,0,0,DQXI_Jasper,Human,B,SC,No
+Hendrik,Male,DQXI,36,Adult,1,0,DQXI_Hendrik,Human,B,MC,Opt
+Mordegon,Male,DQXI,Unknown,Unknown,0,0,DQXI_Mordegon,Humanoid,A,MA,No
+Calasmos,Male,DQXI,Unknown,Unknown,0,0,DQXI_Calasmos,Creature,A,MA,No
+Serenica,Female,DQXI,Unknown,Unknown,0,0,DQXI_Serenica,Human,P,SC,No
+Kiryu,Male,YK0,20,Young adult,1,0,YK0_Kiryu,Human,P,PA,No
+Nishikiyama,Male,YK0,20,Young adult,0,0,YK0_Nishikiyama,Human,P,MC,No
+Daisaku Kuze,Male,YK0,50,Middle-aged,0,0,YK0_Daisaku,Human,A,MC,No
+Keiji Shibusawa,Male,YK0,Middle-aged,Middle-aged,0,0,YK0_Keiji,Human,A,MA,No
+Hiroki Awano,Male,YK0,Middle-aged,Middle-aged,0,0,YK0_Hiroki,Human,A,MC,No
+Soehi Dojima,Male,YK0,Middle-aged,Middle-aged,0,0,YK0_Soehi,Human,A,MC,No
+Tachibana,Male,YK0,25,Adult,0,0,YK0_Tachibana,Human,P,DA,No
+Goro Majima,Male,YK0,24,Young adult,1,0,YK0_Goro,Human,P,PA,No
+Shimano,Male,YK0,40,Middle-aged,0,0,YK0_Shimano,Human,A,MC,No
+Sagawa,Male,YK0,50,Middle-aged,0,0,YK0_Sagawa,Human,A,MC,No
+Makoto,Female,YK0,20,Young adult,0,2,YK0_Makoto,Human,P,DA,No
+Wen Hai Lee,Male,YK0,Adult,Adult,0,0,YK0_Wen,Human,P,SC,No
+Homare Nishitane,Male,YK0,20,Young adult,0,0,YK0_Homare,Human,A,SC,No
+Oda,Male,YK0,Adult,Adult,0,0,YK0_Oda,Human,A,SC,No
+Reina,Female,YK0,Adult,Adult,0,0,YK0_Reina,Human,P,SC,No
+Sera,Male,YK0,39,Adult,0,0,YK0_Sera,Human,P,SC,No
+Lao Gui,Male,YK0,Middle-aged,Middle-aged,0,0,YK0_Lao,Human,A,SC,No
+User,Non-binary,TINGWD,Unknown,Unknown,1,0,TINGWD_User,Human,P,PA,No
+Game,Male,TINGWD,Unknown,Unknown,0,0,TINGWD_Game,Robot,P,DA,No
+GiGi,Female,TINGWD,Unknown,Unknown,0,1,TINGWD_GiGi,Robot,P,MC,Yes
+Glitch,Male,TINGWD,Unknown,Unknown,0,0,TINGWD_Glitch,Robot,A,MA,No
+Creator,Male,TINGWD,Adult,Adult,0,0,TINGWD_Creator,Human,A,SC,No
+Godwoken,Custom,DOS2,Adult,Adult,1,0,DOS2_Godwoken,Human,P,PA,No
+Alexandar,Male,DOS2,Adult,Adult,0,0,DOS2_Alexandar,Human,A,SC,No
+Dallis,Female,DOS2,Adult,Adult,0,0,DOS2_Dallis,Human,A,MC,No
+Lucian,Male,DOS2,Adult,Adult,0,0,DOS2_Lucian,Human,A,SC,No
+Braccus Rex,Male,DOS2,Adult,Adult,0,0,DOS2_Braccus,Human,A,SC,No
+Beast,Male,DOS2,Adult,Adult,1,0,DOS2_Beast,Human,P,MC,Opt
+Sebille,Female,DOS2,Adult,Adult,1,0,DOS2_Sebille,Human,P,MC,Opt
+Ifan Ben-Mezd,Male,DOS2,Adult,Adult,1,0,DOS2_Ifan,Human,P,MC,Opt
+Red Prince,Male,DOS2,Adult,Adult,1,0,DOS2_Red,Humanoid,P,MC,Opt
+Fane,Male,DOS2,Adult,Adult,1,0,DOS2_Fane,Humanoid,P,MC,Opt
+Lohse,Female,DOS2,Adult,Adult,1,0,DOS2_Lohse,Human,P,MC,Opt
+Sekiro Wolf,Male,SSDT,Adult,Adult,1,0,SSDT_Sekiro,Human,P,PA,No
+Kuro Divine Lord,Male,SSDT,Child,Child,0,1,SSDT_Kuro,Human,P,DA,No
+Commander,Male,SSDT,Adult,Adult,0,0,SSDT_Commander,Human,A,SC,No
+Isshin,Male,SSDT,Elderly,Elderly,0,0,SSDT_Isshin,Human,A,MC,No
+Genichiro,Male,SSDT,Adult,Adult,0,0,SSDT_Genichiro,Human,A,MA,No
+Emma,Female,SSDT,Adult,Adult,0,0,SSDT_Emma,Human,B,SC,No
+Owl,Male,SSDT,Elderly,Elderly,0,0,SSDT_Owl,Human,B,SC,No
+Sculptor,Male,SSDT,Elderly,Elderly,0,0,SSDT_Sculptor,Human,B,SC,No
+Ori,Non-binary,OABF,Unknown,Unknown,1,0,OABF_Ori,Creature,P,PA,No
+Kuro,Female,OABF,Unknown,Unknown,0,0,OABF_Kuro,Animal,A,MA,No
+Naru,Female,OABF,Unknown,Unknown,0,0,OABF_Naru,Creature,P,MC,No
+Gumo,Male,OABF,Unknown,Unknown,0,0,OABF_Gumo,Creature,B,SC,No
+Sein,Non-binary,OABF,Unknown,Unknown,0,0,OABF_Sein,Animated Object,P,SK,No
+Nero,Male,DMC5,23,Young adult,1,0,DMC5_Nero,Human,P,PA,No
+Dante,Male,DMC5,Middle-aged,Middle-aged,1,0,DMC5_Dante,Human,P,DA,No
+Nico,Female,DMC5,Adult,Adult,0,0,DMC5_Nico,Human,P,SK,No
+V,Male,DMC5,Adult,Adult,1,0,DMC5_V,Human,B,PA,No
+Urizen,Male,DMC5,Unknown,Unknown,0,0,DMC5_Urizen,Creature,A,MA,No
+Lady,Female,DMC5,Adult,Adult,0,0,DMC5_Lady,Human,P,SC,No
+Trish,Female,DMC5,Unknown,Unknown,0,0,DMC5_Trish,Human,P,SC,No
+Vergil,Male,DMC5,Middle-aged,Middle-aged,0,0,DMC5_Vergil,Human,A,MC,No
+Byleth,Custom,FE3H,26,Adult,1,0,FE3H_Byleth,Human,P,PA,No
+Sothis,Female,FE3H,Unknown,Unknown,0,0,FE3H_Sothis,Human,P,SK,No
+Edelgard,Female,FE3H,23,Young adult,1,0,FE3H_Edelgard,Human,B,MC,Opt
+Dimitri Prince,Male,FE3H,23,Young adult,1,0,FE3H_Dimitri,Human,B,MC,No
+Claude,Male,FE3H,23,Young adult,1,0,FE3H_Claude,Human,B,MC,No
+Jeralt,Male,FE3H,Elderly,Elderly,0,0,FE3H_Jeralt,Human,B,MC,No
+Rhea,Female,FE3H,Unknown,Unknown,0,0,FE3H_Rhea,Human,B,MC,Opt
+Flame Emperor,Male,FE3H,Unknown,Unknown,0,0,FE3H_Flame,Human,B,SC,No
+Nemesis,Male,FE3H,Unknown,Unknown,0,0,FE3H_Nemesis,Human,B,SC,No
+Aelfric,Female,FE3H,38,Adult,0,0,FE3H_Aelfric,Human,B,SC,No
+Thales,Male,FE3H,Unknown,Unknown,0,0,FE3H_Thales,Human,A,MA,No
+Edith,Female,WROEF,17,Teenager,1,0,WROEF_Edith,Human,P,PA,No
+Edie,Female,WROEF,93,Elderly,0,0,WROEF_Edie,Human,P,MC,No
+Dawn,Female,WROEF,48,Middle-aged,0,0,WROEF_Dawn,Human,P,MC,No
+Sven,Male,WROEF,49,Middle-aged,0,0,WROEF_Sven,Human,P,MC,No
+Molly,Female,WROEF,10,Child,0,0,WROEF_Molly,Human,P,MC,No
+Barbara,Female,WROEF,16,Teenager,0,0,WROEF_Barbara,Human,P,MC,No
+Sanjay,Male,WROEF,36,Adult,0,0,WROEF_Sanjay,Human,P,SC,No
+Lewis,Male,WROEF,22,Young adult,0,0,WROEF_Lewis,Human,P,MC,No
+Milton,Male,WROEF,11,Child,0,0,WROEF_Milton,Human,P,MC,No
+Christopher,Male,WROEF,Child,Child,0,0,WROEF_Christopher,Human,P,SC,No
+Sam,Male,WROEF,33,Adult,0,0,WROEF_Sam,Human,P,MC,No
+Gus,Male,WROEF,13,Child,0,0,WROEF_Gus,Human,P,MC,No
+Gregory,Male,WROEF,22,Young adult,0,0,WROEF_Gregory,Human,P,MC,No
+Kay,Female,WROEF,Middle-aged,Middle-aged,0,0,WROEF_Kay,Human,P,SC,No
+Walter,Male,WROEF,53,Middle-aged,0,0,WROEF_Walter,Human,P,MC,No
+Calvin,Male,WROEF,11,Child,0,0,WROEF_Calvin,Human,P,MC,No
+Odin,Male,WROEF,Unknown,Unknown,0,0,WROEF_Odin,Human,P,SC,No
+Madeline,Female,CLS,21,Young adult,1,0,CLS_Madeline,Human,P,PA,No
+Celia,Female,CLS,Elderly,Elderly,0,0,CLS_Celia,Human,B,MC,No
+Theo,Male,CLS,Adult,Adult,0,0,CLS_Theo,Human,P,MC,No
+Badeline,Female,CLS,21,Young adult,1,0,CLS_Badeline,Human,B,MA,No
+Mr.Oshiro,Male,CLS,Elderly,Elderly,0,0,CLS_Mr.Oshiro,Creature,B,SC,No
+Bird,Non-binary,CLS,Unknown,Unknown,0,0,CLS_Bird,Animal,P,SK,No
+Prisoner,Non-binary,DC,Unknown,Unknown,1,0,DC_Prisoner,Creature,P,PA,No
+Collector,Male,DC,Unknown,Unknown,0,0,DC_Collector,Humanoid,P,MC,No
+King,Male,DC,Unknown,Unknown,0,0,DC_King,Human,A,MA,No
+Tutorial Knight,Female,DC,Unknown,Unknown,0,0,DC_Tutorial,Human,P,SC,No
+Gollum,Male,DC,Unknown,Unknown,0,0,DC_Gollum,Humanoid,P,SC,No
+Knight,Non-binary,HLKN,Unknown,Unknown,1,0,HLKN_Knight,Humanoid,P,PA,No
+Pale King,Male,HLKN,Unknown,Unknown,0,0,HLKN_Pale,Humanoid,A,MC,No
+Hornet,Female,HLKN,Unknown,Unknown,0,0,HLKN_Hornet,Humanoid,B,MC,No
+Radiance,Female,HLKN,Unknown,Unknown,0,0,HLKN_Radiance,Creature,A,MA,No
+Hollow Knight,Non-binary,HLKN,Unknown,Unknown,0,0,HLKN_Hollow,Humanoid,A,MC,No
+Mr.Mushroom,Male,HLKN,Unknown,Unknown,0,0,HLKN_Mr.Mushroom,Animated Plant,P,SC,No
+Lurien,Male,HLKN,Unknown,Unknown,0,0,HLKN_Lurien,Creature,P,SC,No
+Monomon,Female,HLKN,Unknown,Unknown,0,0,HLKN_Monomon,Creature,P,SC,No
+Herrah,Female,HLKN,Unknown,Unknown,0,0,HLKN_Herrah,Humanoid,P,SC,No
+Quirrel,Male,HLKN,Unknown,Unknown,0,0,HLKN_Quirrel,Humanoid,P,MC,No
+Cloth,Female,HLKN,Unknown,Unknown,0,0,HLKN_Cloth,Humanoid,P,SC,No
+Cornifer,Male,HLKN,Unknown,Unknown,0,0,HLKN_Cornifer,Humanoid,P,SC,No
+Tiso,Male,HLKN,Unknown,Unknown,0,0,HLKN_Tiso,Humanoid,P,SC,No
+Zote,Male,HLKN,Unknown,Unknown,0,0,HLKN_Zote,Humanoid,P,SC,No
+White Lady,Female,HLKN,Unknown,Unknown,0,0,HLKN_White,Creature,P,SC,No
+Elderburg,Male,HLKN,Unknown,Unknown,0,0,HLKN_Elderburg,Humanoid,P,SC,No
+Mae Borowski,Female,NITW,20,Young adult,1,0,NITW_Mae,Humanoid-Animal,P,PA,No
+Bea Santello,Female,NITW,20,Young adult,0,0,NITW_Bea,Humanoid-Animal,P,MC,No
+Gregg Lee,Male,NITW,21,Young adult,0,0,NITW_Gregg,Humanoid-Animal,P,MC,No
+Angus Delaney,Male,NITW,21,Young adult,0,0,NITW_Angus,Humanoid-Animal,P,MC,No
+Casey Hartley,Female,NITW,21,Young adult,0,0,NITW_Casey,Humanoid-Animal,P,SC,No
+Black Goat,Non-binary,NITW,Unknown,Unknown,0,0,NITW_Black,Humanoid-Animal,A,SC,No
+Germ,Male,NITW,18,Young adult,0,0,NITW_Germ,Humanoid-Animal,P,SC,No
+Aunt Molly,Female,NITW,Middle-aged,Middle-aged,0,0,NITW_Aunt,Humanoid-Animal,P,SC,No
+Cult,Non-binary,NITW,Unknown,Unknown,0,0,NITW_Cult,Unknown,A,MA,No
+Bayonetta,Female,BY2,Unknown,Unknown,1,2,BY2_Bayonetta,Human,P,PA,No
+Enzo,Male,BY2,Unknown,Unknown,0,0,BY2_Enzo,Human,P,MC,No
+Jeanne,Female,BY2,Unknown,Unknown,0,2,BY2_Jeanne,Human,P,MC,No
+Inferno,Male,BY2,Unknown,Unknown,0,0,BY2_Inferno,Human,A,MC,No
+Lumen Sage,Male,BY2,Unknown,Unknown,0,0,BY2_Lumen,Human,A,MC,No
+Balder,Male,BY2,Unknown,Unknown,0,0,BY2_Balder,Human,A,MC,No
+Luka,Male,BY2,Unknown,Unknown,0,0,BY2_Luka,Human,P,SC,No
+Loki,Male,BY2,Unknown,Unknown,0,0,BY2_Loki,Human,P,MC,No
+Rodin,Male,BY2,Unknown,Unknown,0,0,BY2_Rodin,Humanoid,A,MC,No
+Rosa,Female,BY2,Unknown,Unknown,0,0,BY2_Rosa,Human,P,SC,No
+Loptr,Male,BY2,Unknown,Unknown,0,0,BY2_Loptr,Human,A,MA,No
+Vella Tartine,Female,BRA,Teenager,Teenager,1,0,BRA_Vella,Human,P,PA,No
+Levina,Female,BRA,Elderly,Elderly,0,0,BRA_Levina,Human,P,SC,No
+Jessie,Female,BRA,Unknown,Unknown,0,0,BRA_Jessie,Animal,P,SC,No
+Ch't,Male,BRA,Teenager,Teenager,0,0,BRA_Ch't,Human,P,SC,No
+Maggie,Female,BRA,Teenager,Teenager,0,0,BRA_Maggie,Human,P,SC,No
+Gus,Male,BRA,Adult,Adult,0,0,BRA_Gus,Human,P,SC,No
+Brommel,Male,BRA,Elderly,Elderly,0,0,BRA_Brommel,Human,P,SC,No
+Morelia,Female,BRA,Adult,Adult,0,0,BRA_Morelia,Human,P,SC,No
+Husker,Male,BRA,Adult,Adult,0,0,BRA_Husker,Human,P,SC,No
+Alex,Male,BRA,Adult,Adult,0,0,BRA_Alex,Human,P,SC,No
+Shay,Male,BRA,Teenager,Teenager,1,0,BRA_Shay,Human,P,PA,No
+Hope,Female,BRA,Adult,Adult,0,0,BRA_Hope,Human,P,MC,No
+Marek,Male,BRA,Unknown,Unknown,0,0,BRA_Marek,Humanoid,A,MA,No
+Grabbin Gary,Male,BRA,Unknown,Unknown,0,0,BRA_Grabbin,Robot,P,SC,No
+Ray Volta,Male,BRA,Adult,Adult,0,0,BRA_Ray,Human,P,MC,No
+Rocky,Female,BRA,Child,Child,0,0,BRA_Rocky,Human,P,SC,No
+Venom Snake,Male,MGSV,Adult,Adult,1,0,MGSV_Venom,Human,P,PA,No
+Quiet,Female,MGSV,Adult,Adult,0,0,MGSV_Quiet,Human,P,MC,No
+Revolver Ocelot,Male,MGSV,Adult,Adult,0,0,MGSV_Revolver,Human,P,MC,No
+Kazuhira Miller,Male,MGSV,Adult,Adult,0,0,MGSV_Kazuhira,Human,P,MC,No
+Dr.Huey Emmerich,Male,MGSV,Adult,Adult,0,0,MGSV_Dr.Huey,Human,P,MC,No
+Code Talker,Male,MGSV,Elderly,Elderly,0,0,MGSV_Code,Human,P,MC,No
+Eli,Male,MGSV,Child,Child,0,0,MGSV_Eli,Human,P,SC,No
+Zero,Male,MGSV,Elderly,Elderly,0,0,MGSV_Zero,Human,P,SC,No
+Skull Face,Male,MGSV,Middle-aged,Middle-aged,0,0,MGSV_Skull,Human,A,MA,No
+Sahelanthropus,Non-binary,MGSV,Unknown,Unknown,0,0,MGSV_Sahelanthropus,Robot,P,SC,No
+Swapper,Female,TSWP,Unknown,Unknown,1,0,TSWP_Swapper,Human,P,PA,No
+Head Watcher,Non-binary,TSWP,Unknown,Unknown,0,0,TSWP_Head,Unknown,A,MA,No
+Dennet,Female,TSWP,Unknown,Unknown,0,0,TSWP_Dennet,Human,P,MC,No
+Chalmers,Female,TSWP,Unknown,Unknown,0,0,TSWP_Chalmers,Human,P,MC,No
+Marcus,Male,TSWP,Unknown,Unknown,0,0,TSWP_Marcus,Human,P,SC,No
+Captain,Male,TSWP,Unknown,Unknown,0,0,TSWP_Captain,Human,A,SC,No
+Otus,Male,OWB,13,Child,1,0,OWB_Otus,Humanoid,P,PA,No
+Asio,Male,OWB,Elderly,Elderly,0,0,OWB_Asio,Humanoid,P,MC,No
+Geddy,Male,OWB,Young adult,Young adult,0,0,OWB_Geddy,Human,P,SK,No
+Alphonse,Male,OWB,Adult,Adult,0,0,OWB_Alphonse,Android-Robot,P,MC,No
+Twig,Male,OWB,Unknown,Unknown,0,0,OWB_Twig,Humanoid,P,MC,No
+Dirk,Male,OWB,Unknown,Unknown,0,0,OWB_Dirk,Android-Robot,A,MC,No
+Molstrom,Male,OWB,Unknown,Unknown,0,0,OWB_Molstrom,Android-Robot,A,MA,No
+Solus,Male,OWB,Unknown,Unknown,0,0,OWB_Solus,Humanoid-Animal,A,MC,No
+Bearer of the Course,Custom,DS2,Unknown,Unknown,1,0,DS2_Bearer,Human,P,PA,No
+Emerald Herald,Female,DS2,Unknown,Unknown,0,0,DS2_Emerald,Human,P,SK,No
+Nashandra,Female,DS2,Unknown,Unknown,0,0,DS2_Nashandra,Humanoid,A,MA,No
+Vendrick,Male,DS2,Unknown,Unknown,0,0,DS2_Vendrick,Humanoid,A,MC,No
+Aldia,Male,DS2,Unknown,Unknown,0,0,DS2_Aldia,Humanoid,A,SC,No
+Isaac,Male,TBOIR,Child,Child,1,0,TBOIR_Isaac,Human,P,PA,No
+Mother,Female,TBOIR,Adult,Adult,0,0,TBOIR_Mother,Human,A,MA,No
+Magdalene,Female,TBOIR,Child,Child,1,0,TBOIR_Magdalene,Human,P,MC,No
+Cain,Male,TBOIR,Child,Child,1,0,TBOIR_Cain,Human,P,MC,No
+Judas,Male,TBOIR,Child,Child,1,0,TBOIR_Judas,Human,P,MC,No
+???,Male,TBOIR,Child,Child,1,0,TBOIR_???,Human,P,MC,No
+Eve,Female,TBOIR,Child,Child,1,0,TBOIR_Eve,Human,P,SC,No
+Samson,Male,TBOIR,Child,Child,1,0,TBOIR_Samson,Human,P,SC,No
+Azazel,Male,TBOIR,Child,Child,1,0,TBOIR_Azazel,Human,P,SC,No
+Lazarus,Male,TBOIR,Child,Child,1,0,TBOIR_Lazarus,Human,P,SC,No
+The Lost,Non-binary,TBOIR,Child,Child,1,0,TBOIR_The,Human,P,SC,No
+Aurora,Female,COL,Teenager,Teenager,1,0,COL_Aurora,Human,P,PA,No
+Duke,Male,COL,Middle-aged,Middle-aged,0,0,COL_Duke,Human,P,MC,No
+Igniculus,Male,COL,Unknown,Unknown,1,0,COL_Igniculus,Creature,P,SK,No
+Lady of the Forest,Female,COL,43,Middle-aged,0,0,COL_Lady,Human,P,MC,No
+Rubella,Female,COL,Young adult,Young adult,1,0,COL_Rubella,Human,P,SC,No
+Finn,Male,COL,13,Child,1,0,COL_Finn,Human,P,SC,No
+Norah / Nox,Female,COL,Young adult,Young adult,1,0,COL_Norah,Human,B,MC,No
+Robert,Male,COL,Unknown,Unknown,1,0,COL_Robert,Humanoid-Animal,P,SC,No
+Tristis,Male,COL,Adult,Adult,1,0,COL_Tristis,Human,P,SC,No
+Cordelia / Crepusculum,Female,COL,Adult,Adult,0,0,COL_Cordelia,Human,A,SC,No
+Umbra,Female,COL,Middle-aged,Middle-aged,0,0,COL_Umbra,Human,A,MA,No
+Oengus,Male,COL,Unknown,Unknown,1,0,COL_Oengus,Humanoid,P,SC,No
+Genovefa,Female,COL,Teenager,Teenager,1,0,COL_Genovefa,Humanoid,P,SC,No
+FLorence Yeoh,Female,FLR,25,Adult,1,0,FLR_FLorence,Human,P,PA,No
+Krish,Male,FLR,Adult,Adult,0,0,FLR_Krish,Human,P,DA,Yes
+Miles Morales,Male,MSMMM,17,Teenager,1,0,MSMMM_Miles,Human,P,PA,No
+Simon Krieger,Male,MSMMM,Adult,Adult,0,0,MSMMM_Simon,Human,A,MA,No
+Rio Morales,Female,MSMMM,42,Middle-aged,0,0,MSMMM_Rio,Human,P,MC,No
+Rhino,Male,MSMMM,42,Middle-aged,0,0,MSMMM_Rhino,Human,A,SC,No
+Parker,Male,MSMMM,Adult,Adult,0,0,MSMMM_Parker,Human,P,SC,No
+Ganke Lee,Male,MSMMM,17,Teenager,0,0,MSMMM_Ganke,Human,P,SK,No
+Aaron Davis,Male,MSMMM,41,Middle-aged,0,0,MSMMM_Aaron,Human,B,MC,No
+Danika Hart,Female,MSMMM,19,Young adult,0,0,MSMMM_Danika,Human,P,MC,No
+Gloria Davila,Female,MSMMM,Adult,Adult,0,0,MSMMM_Gloria,Human,P,SC,No
+Hailey Cooper,Female,MSMMM,Young adult,Young adult,0,0,MSMMM_Hailey,Human,P,SC,No
+Rick Mason,Male,MSMMM,Adult,Adult,0,0,MSMMM_Rick,Human,A,SC,No
+Phin Mason,Female,MSMMM,17,Teenager,0,0,MSMMM_Phin,Human,B,MC,No
+Kena,Female,KBOS,Teenager,Teenager,1,0,KBOS_Kena,Human,P,PA,No
+Rot,Non-binary,KBOS,Unknown,Unknown,0,0,KBOS_Rot,Creature,P,SK,No
+Toshi,Male,KBOS,Unknown,Unknown,0,0,KBOS_Toshi,Human,A,MA,No
+Zajuro,Male,KBOS,Elderly,Elderly,0,0,KBOS_Zajuro,Human,P,MC,No
+Saiya,Female,KBOS,Infant,Infant,0,0,KBOS_Saiya,Human,P,SC,No
+Beni,Male,KBOS,Infant,Infant,0,0,KBOS_Beni,Human,P,SC,No
+Taro,Male,KBOS,Child,Child,0,0,KBOS_Taro,Human,P,SC,No
+Rusu,Male,KBOS,Adult,Adult,0,0,KBOS_Rusu,Human,P,SC,No
+Adira,Female,KBOS,Adult,Adult,0,0,KBOS_Adira,Human,P,SC,No
+Hana,Female,KBOS,Adult,Adult,0,0,KBOS_Hana,Human,P,SC,No
