@@ -1,2 +1,2 @@
 # Video-Games-And-The-Male-Gaze
-details
+## Ayesha Jan,Maha Ibrahim, Tekla Kumsiashvili, Anunitha K U
