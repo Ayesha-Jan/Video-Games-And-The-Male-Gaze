@@ -51,7 +51,7 @@ Tropes vs Women,
 Analysis of Findings From the Data,
 Conclusions
 
-### Getting Started
+## Getting Started
 **Prerequisites**
 Python 3.x, 
 Jupyter Notebook,
@@ -59,10 +59,6 @@ Libraries: pandas, plotly.express, matplotlib.pyplot, dash, dash-core-components
 
 **Installation**
 Clone the Repository:
-
-Copy code
-_git clone https://github.com/yourusername/video-games-male-gaze.git
-cd video-games-male-gaze_
 
 Install Dependencies:
 Copy code
@@ -85,12 +81,14 @@ Open a web browser and go to _http://127.0.0.1:8050_ to view the app.
 To access the presenation please click on the link:
 [Presentation](https://docs.google.com/presentation/d/1jsXoyTuxqdrE3KQCBMBdTdIDi8ekY8YN/edit?usp=sharing&ouid=116758562800334761710&rtpof=true&sd=true)
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+## Acknowledgments
 Special thanks to the open-source community for providing the datasets and tools used in this project.
-Gratitude to all collaborators: 
+Gratitude to all collaborators.
 
-### Contact
-For questions or feedback, please contact [Ayesha.Jan@stud.srh-campus-berlin.de].
+## Contact
+For questions or feedback, please contact: [Ayesha.Jan@stud.srh-campus-berlin.de], [anunitha.kommireddyumasankari@stud.srh-campus-berlin.de], [maha.ibrahim@stud.srh-campus-berlin.de], [tekla.kumsiashvili@stud.srh-campus-berlin.de]
+
+
