@@ -1,5 +1,5 @@
 # Video-Games-And-The-Male-Gaze
-### Ayesha Jan , Maha Ibrahim , Tekla Kumsiashvili , Anunitha K U
+### Ayesha Jan , Maha Ibrahim , Anunitha K U
 
 ## Project Overview
 "Video Games and the Male Gaze" is a project that explores gender representation in video games using data analysis and visualization. The project comprises two Jupyter notebooks, a Dash web application, and a presentation that delves into the theoretical aspects of the subject matter.
