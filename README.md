@@ -89,6 +89,6 @@ Special thanks to the open-source community for providing the datasets and tools
 Gratitude to all collaborators.
 
 ## Contact
-For questions or feedback, please contact: [Ayesha.Jan@stud.srh-campus-berlin.de], [anunitha.kommireddyumasankari@stud.srh-campus-berlin.de], [maha.ibrahim@stud.srh-campus-berlin.de], [tekla.kumsiashvili@stud.srh-campus-berlin.de]
+For questions or feedback, please contact: [Ayesha.Jan@stud.srh-campus-berlin.de], [anunitha.kommireddyumasankari@stud.srh-campus-berlin.de], [maha.ibrahim@stud.srh-campus-berlin.de].
 
 
